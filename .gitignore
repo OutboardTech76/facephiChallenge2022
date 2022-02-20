@@ -1,0 +1,11 @@
+*.hdf5
+data/*
+resultTraining/*
+test/*
+testMorph/*
+*.tar.gz
+__pycache__/*
+.vim/*
+.ipynb_checkpoints/*
+selectiveSearch/*
+models/__pycache__/*
